@@ -1,6 +1,6 @@
 # Isabelle Theories for *Formal Foundations for Automated Deductive Verifiers* (2025)
 
-This artifact contains [Isabelle](https://isabelle.in.tum.de/) theories that support all formal claims from the PhD thesis *Formal Foundations for Automated Deductive Verifiers* (Thibault Dardinier, 2025).
+This repository contains [Isabelle](https://isabelle.in.tum.de/) theories that support all formal claims from the PhD thesis *Formal Foundations for Automated Deductive Verifiers* (Thibault Dardinier, 2025).
 All `.thy` files have been successfully checked with Isabelle 2025.
 
 ## Overview of formal results by chapter
